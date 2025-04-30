@@ -1,5 +1,3 @@
-# AetherTech-SIA101
-
 # AetherTech
 
 AetherTech is a microservices-based web application developed by a four-member team using modern technologies such as React, Node.js, MongoDB, and RabbitMQ. This README outlines the project's team structure, tech stack, architecture, development schedule, and design choices.
