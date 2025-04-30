@@ -1,7 +1,5 @@
 # AetherTech
 
----
-
 ## 👥 Team Members & Roles
 
 - **Marc Christian C. Delos Santos** – Leader / Full Stack Developer  
