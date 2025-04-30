@@ -1,6 +1,6 @@
 # AetherTech
 
-## 👥 Team Members & Roles
+# 👥 Team Members & Roles
 
 - **Marc Christian C. Delos Santos** – Leader / Full Stack Developer  
 - **Felix C. Leid Jr** – Backend Developer  
